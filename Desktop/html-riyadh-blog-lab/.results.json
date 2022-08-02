@@ -5,16 +5,16 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2022-08-02T13:24:44.986Z",
-    "end": "2022-08-02T13:24:45.031Z",
-    "duration": 45
+    "start": "2022-08-02T13:27:29.982Z",
+    "end": "2022-08-02T13:27:30.011Z",
+    "duration": 29
   },
   "tests": [
     {
       "title": "has a <h1> element with the correct content",
       "fullTitle": "index.html the wrapper section has a <h1> element with the correct content",
       "file": "/home/admn/Desktop/html-riyadh-blog-lab/test/index.html.test.js",
-      "duration": 15,
+      "duration": 6,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -32,7 +32,7 @@
       "title": "has three <h3> elements with the correct content",
       "fullTitle": "index.html the content section has three <h3> elements with the correct content",
       "file": "/home/admn/Desktop/html-riyadh-blog-lab/test/index.html.test.js",
-      "duration": 7,
+      "duration": 4,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -41,7 +41,7 @@
       "title": "has three <p> elements with the correct content",
       "fullTitle": "index.html the content section has three <p> elements with the correct content",
       "file": "/home/admn/Desktop/html-riyadh-blog-lab/test/index.html.test.js",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -59,7 +59,7 @@
       "title": "has two <a> elements with the correct attributes",
       "fullTitle": "index.html the content section has two <a> elements with the correct attributes",
       "file": "/home/admn/Desktop/html-riyadh-blog-lab/test/index.html.test.js",
-      "duration": 3,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -72,7 +72,7 @@
       "title": "has a <h1> element with the correct content",
       "fullTitle": "index.html the wrapper section has a <h1> element with the correct content",
       "file": "/home/admn/Desktop/html-riyadh-blog-lab/test/index.html.test.js",
-      "duration": 15,
+      "duration": 6,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -90,7 +90,7 @@
       "title": "has three <h3> elements with the correct content",
       "fullTitle": "index.html the content section has three <h3> elements with the correct content",
       "file": "/home/admn/Desktop/html-riyadh-blog-lab/test/index.html.test.js",
-      "duration": 7,
+      "duration": 4,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -99,7 +99,7 @@
       "title": "has three <p> elements with the correct content",
       "fullTitle": "index.html the content section has three <p> elements with the correct content",
       "file": "/home/admn/Desktop/html-riyadh-blog-lab/test/index.html.test.js",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -117,7 +117,7 @@
       "title": "has two <a> elements with the correct attributes",
       "fullTitle": "index.html the content section has two <a> elements with the correct attributes",
       "file": "/home/admn/Desktop/html-riyadh-blog-lab/test/index.html.test.js",
-      "duration": 3,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
